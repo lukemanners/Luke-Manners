@@ -1,7 +1,8 @@
+---
 title: Socials
 layout: template
 filename: about.md
-
+---
 
 
 # Socials
