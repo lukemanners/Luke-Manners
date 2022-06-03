@@ -1,6 +1,6 @@
-# Hello There
+# Socials
 
-- <b>INSTA:</b> luke.manners<br>
-- <b>SNAP:</b> mannersluke<br>
-- <b>EMAIL:</b> mannersluke05@gmail.com<br>
+- <strong>INSTA:</strong> luke.manners<br>
+- <strong>SNAP:</strong> mannersluke<br>
+- <strong>EMAIL:</strong> mannersluke05@gmail.com<br>
 
