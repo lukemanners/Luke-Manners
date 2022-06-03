@@ -1,3 +1,10 @@
+---
+title: Socials
+layout: template
+filename: index.md
+--- 
+
+
 # Socials
 
 - <strong>INSTA:</strong> luke.manners<br>
