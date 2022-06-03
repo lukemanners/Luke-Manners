@@ -1,5 +1,5 @@
 - default: menu_index
   url:   ""
 
-- default: menu_other
-  url:   "other"
+- default: menu_about
+  url:   "about"
