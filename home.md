@@ -1,5 +1,4 @@
 # Home
 
 this whole website is hand coded and hosted by github pages, the main purpose of this is for a project and a challenge.
-<a href="index.md">Socials</a>
-[a relative link](index.md)
+[socials](index.md)
