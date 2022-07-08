@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html> <head> <title> Higher or Lower </title> </head> <body> <div class="title"> <h1>Higher or Lower</h1> </div> <div class="text"> <p>The aim of the game is simple. Choose a number range to sumbite than start guessing what the random number is. Each time you guess the computer will say if the answer is higher or lower. Good luck!</p> </div> <div class="input"> <input type="text" class="field" placeholder="Maximum..." id="maximum"> <button type="button" class="button" onclick="minmax()">Submit Maximum Number</button> <br> <input type="text" class="field" placeholder="Guess..." id="guess1"> <button type="button" class="button" onclick="guess()">Submit Maximum Number</button> </div> </body> </html> <script> function minmax () { var min = 1 var max = document.getElementById("maximum").value; var answer = Math.floor(Math.random() \* (max - min + 1) + min); alert(answer) }
+
+function guess () {
+var guess = document.getElementById("guess1").value;
+test()
+}
+
+function test () {
+
+if (guess>answer){
+alert("Lower")
+}
+if (guess<answer) {
+alert("Higher")
+}
+if (guess=answer) {
+alert("Correct")
+}
+
+}
+
+</script> <style>
+
+</style>
