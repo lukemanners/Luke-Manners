@@ -11,7 +11,7 @@
 <details>
   <summary><strong>SNAP:</strong> <a href="https://www.snapchat.com/add/mannersluke"  style="color:blue">👻 mannersluke  </a><br></summary>
   
-  [images/snapchat.jpg](https://github.com/lukemanners/site/blob/gh-pages/images/snapchat.jpg?raw=true)
+  ![images/snapchat.jpg](https://github.com/lukemanners/site/blob/gh-pages/images/snapchat.jpg?raw=true)
 </details>
 <details>
   <summary><strong>EMAIL:</strong><a href="mailto:mannersluke05@gmail.com" style="color:blue"> 📧 mannersluke05@gmail.com</a><br></summary>
