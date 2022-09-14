@@ -1387,27 +1387,6 @@ button[aria-label="Send a gift"] {
   background: var(--darkplus-bg);
 }
 
-.icon-2xnN2Y,
-.title-17SveM,
-.tabBar-ra-EuL .item-3mHhwr,
-.brand-3g5E0C.item-3XjbnG:hover,
-.themed-2-lozF.item-3XjbnG:hover,
-.clickable-ZD7xvu .icon-2xnN2Y,
-.clickable-ZD7xvu:hover .icon-2xnN2Y:hover,
-.title-x4dI75,
-.linkButtonIcon-7rsZcu,
-.name-3Vmqxm,
-.username-Qpc78p,
-.text-MPIeXO,
-.discriminator-WV5K5s,
-.button-12Fmur,
-.button-12Fmur.enabled-9OeuTA:hover,
-.title-338goq,
-.hovered-20u3oh,
-.customStatus-1UAQAK {
-  color: var(--darkplus-sec);
-}
-
 .input-2m5SfJ,
 .medium-2NClDM.iconLayout-3Bjizv {
   background-color: var(--darkplus-sec);
