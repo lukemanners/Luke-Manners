@@ -1,5 +1,5 @@
 # Home
-## <pre> [Socials](socials)  /  [Texturepacks](texturepack) </pre>
+## [Socials](socials) &nbsp; | &nbsp; [Texturepacks](texturepack)
 ---------------
 # About this website
 This whole website is hand coded and hosted by github pages, the main purpose of this is for a project and a challenge.
