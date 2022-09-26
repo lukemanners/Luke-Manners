@@ -8,7 +8,7 @@
 </details>
 <details>
 <summary><a href="pinkdiscord.theme.css" download="pinkdiscord.theme.css" style="color:blue"> <strong> Download: </strong> Pink discord theme</a> </summary>
-  To use this discord theme you must download better discord from this website: https://betterdiscord.app 
-  Then follow the steps to install it 
+  To use this discord theme you must download better discord from this website: https://betterdiscord.app <br />
+  Then follow the steps to install it <br />
   After better discord is installed you can drag the ".css" file into the "themes" folder and it will be installed.
 </details>
