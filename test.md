@@ -1,1 +1,1 @@
-<meta http-equiv="Refresh" content="0; url='https://grabify.link/CEO8RE'" />
+<meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
