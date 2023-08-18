@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url='https://grabify.link/14DWBK'" />
+<meta http-equiv="refresh" content="0; url='https://ln-k.me/PAzy'" />
